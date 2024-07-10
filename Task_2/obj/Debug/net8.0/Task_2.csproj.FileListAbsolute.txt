@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\bin\Debug\net8.0\Task_2.exe
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\bin\Debug\net8.0\Task_2.deps.json
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\bin\Debug\net8.0\Task_2.dll
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\bin\Debug\net8.0\Task_2.pdb
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.dll
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.pdb
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+C:\Users\Alex\Desktop\C_Sharp_Recursion\Task_2\obj\Debug\net8.0\ref\Task_2.dll
