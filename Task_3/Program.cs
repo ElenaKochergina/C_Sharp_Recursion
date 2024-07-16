@@ -6,11 +6,11 @@ void Main()
     int arraySize = ReadInt("Введите размер массива: ");
     int[] array = GenerateArray(arraySize, 0, 10);
     PrintArray(array);
-    EndPrint(array, arraySize);
+    EndPrint(array, array.Length - 1);
 }
 void EndPrint(int[] arrEnd, int N)
 {
-    if (N < 1) return;
+    if (N < 0) return; //если индекс меньше 0, рекурсия завершится
     System.Console.Write(arrEnd[N] + " ");
     EndPrint(arrEnd, N - 1);
     
